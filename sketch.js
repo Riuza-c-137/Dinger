@@ -64,8 +64,6 @@ function draw() {
     }
   }
 
-  // con sa mere
-
   //   push();
   //   rotate(secondAngle);
   //   stroke(255, 100, 150);
